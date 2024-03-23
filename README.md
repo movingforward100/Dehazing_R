@@ -39,7 +39,7 @@ DCNv4
 
 
 # Our saved Model
-Download [our saved model for NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge](https://drive.google.com/file/d/1HfaVBTkBSU8sScFW30cv9XiOuXAmaByW/view?usp=sharing) and unzip it into the folder ./weights to reproduce our test result.
+Download [our saved model for NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge]([https://drive.google.com/file/d/1HfaVBTkBSU8sScFW30cv9XiOuXAmaByW/view?usp=sharing](https://drive.google.com/file/d/17cV2VeKXp2dFfMaTwdWTdfKqWQUs7g8f/view?usp=drive_link)) and unzip it into the folder ./weights to reproduce our test result.
 
 # How to reproduce our test result
 Download above saved models
