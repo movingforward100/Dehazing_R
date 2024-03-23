@@ -44,7 +44,7 @@ Download above saved models
 
 Run test.py and find results in the folder ./results. 
 
-Please note new generated results may have subtle varations with our submitted test results due to the device difference, please feel free to choose our submitted results or your generated images for user study.
+Please note new generated results may have subtle varations with [our submitted test results](https://drive.google.com/file/d/18zyWybWFRbYA4HsifToUfLqPi_CnomsU/view?usp=sharing) due to the device difference, please feel free to choose our submitted results or your generated images for user study.
 
 
 
