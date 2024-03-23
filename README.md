@@ -10,18 +10,31 @@ Python 3.8
 # Dependencies:
 
 torch==1.10.0
+
 torchvision==0.9.0
+
 NVIDIA GPU and CUDA
+
 pytorch_lightning=2.0.0
+
 timm=0.6.12
+
 mmcv-full==1.5.0
+
 mmdet==2.28.1
+
 opencv-python 
+
 termcolor 
+
 yacs 
+
 yyaml 
+
 scipy
+
 einops
+
 DCNv4
 
 
