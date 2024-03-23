@@ -13,7 +13,7 @@ from model import final_net
 
 #os.chdir
 
-parser = argparse.ArgumentParser(description='Dehaze')
+parser = argparse.ArgumentParser(description='Dehazing_R')
 parser.add_argument('--test_dir', type=str, default='data/test/')
 parser.add_argument('--output_dir', type=str, default='results')
 parser.add_argument('-test_batch_size', help='Set the testing batch size', default=1, type=int)
@@ -38,7 +38,7 @@ MyEnsembleNet= final_net()
 
 # --- Load the network weight --- #
 try:
-   MyEnsembleNet.load_state_dict(torch.load(os.path.join('experiments_reti/reti/checkpoints/model', '186.pkl')))
+   MyEnsembleNet.load_state_dict(torch.load(os.path.join('weights', 'model.pkl')))
    print('--- MyEnsembleNet loaded ---')
 except:
    print('--- no weight loaded ---')
