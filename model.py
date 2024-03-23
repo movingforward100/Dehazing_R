@@ -16,7 +16,7 @@ class final_net(nn.Module):
         self.enhancement_model =  RetinexFormer()
 
         try:
-            self.dehazing_model.load_state_dict(torch.load(os.path.join('experiments_new2/flashinterimage/checkpoints/model', '72.pkl')), strict=True)
+            self.dehazing_model.load_state_dict(torch.load(os.path.join('weights', 'dehazing.pkl')), strict=True)
             print('loading dehazing_model success')
         except:
             print('loading dehazing_model error')
