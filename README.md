@@ -44,7 +44,9 @@ Download [our saved model for NTIRE 2024 Dense and NonHomogeneous Dehazing Chall
 # How to reproduce our test result
 Download above saved models
 
-Run test.py and find results in the folder ./results. Please note new generated results may have subtle varations with our submitted test results due to the device difference, please feel free to choose our submitted results or your generated images for user study.
+Run test.py and find results in the folder ./results. 
+
+Please note new generated results may have subtle varations with our submitted test results due to the device difference, please feel free to choose our submitted results or your generated images for user study.
 
 
 
