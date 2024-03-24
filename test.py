@@ -38,7 +38,7 @@ MyEnsembleNet= final_net()
 
 # --- Load the network weight --- #
 try:
-   MyEnsembleNet.load_state_dict(torch.load(os.path.join('weights', 'model.pkl')))
+   MyEnsembleNet.load_state_dict(torch.load(os.path.join('weights/Dehazing_R_checkpoint', 'model.pkl')))
    print('--- MyEnsembleNet loaded ---')
 except:
    print('--- no weight loaded ---')
