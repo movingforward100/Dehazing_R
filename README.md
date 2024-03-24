@@ -31,6 +31,8 @@ yyaml
 
 scipy
 
+kornia
+
 einops
 
 DCNv4
