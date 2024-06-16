@@ -4,7 +4,7 @@
 <p align="center"> <img src="figure/logo.png" width="200px"> </p>
 
 
-[![arXiv](https://img.shields.io/badge/paper-179bd3)](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Dong_DehazeDCT_Towards_Effective_Non-Homogeneous_Dehazing_via_Deformable_Convolutional_Transformer_CVPRW_2024_paper.pdf)
+[![arXiv](https://img.shields.io/badge/CVPRW2024-paper-179bd3)](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Dong_DehazeDCT_Towards_Effective_Non-Homogeneous_Dehazing_via_Deformable_Convolutional_Transformer_CVPRW_2024_paper.pdf)
 [![NTIRE](https://img.shields.io/badge/Winner_of_NTIRE_2024_Perceptual_Track-leaderboard_User🥇_ylxb-179bd3)](https://codalab.lisn.upsaclay.fr/competitions/17546#results)
 [![NTIRE](https://img.shields.io/badge/Second_Place_of_NTIRE_2024_Fidelity_Track-leaderboard_User🥈_ZXCV-179bd3)](https://codalab.lisn.upsaclay.fr/competitions/17539#results)
 
