@@ -5,8 +5,8 @@
 
 
 [![arXiv](https://img.shields.io/badge/CVPRW2024-paper-179bd3)](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Dong_DehazeDCT_Towards_Effective_Non-Homogeneous_Dehazing_via_Deformable_Convolutional_Transformer_CVPRW_2024_paper.pdf)
-[![NTIRE](https://img.shields.io/badge/Winner_of_NTIRE_2024_Perceptual_Track-leaderboard_User🥇_ylxb-179bd3)](https://codalab.lisn.upsaclay.fr/competitions/17546#results)
-[![NTIRE](https://img.shields.io/badge/Second_Place_of_NTIRE_2024_Fidelity_Track-leaderboard_User🥈_ZXCV-179bd3)](https://codalab.lisn.upsaclay.fr/competitions/17539#results)
+
+[![NTIRE](https://img.shields.io/badge/Second_Place_of_NTIRE_2024_Dehazing_Challenge-leaderboard_User🥈_ZXCV-179bd3)](https://codalab.lisn.upsaclay.fr/competitions/17529#results)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/shadowrefiner-towards-mask-free-shadow/shadow-removal-on-adjusted-istd)](https://paperswithcode.com/sota/shadow-removal-on-adjusted-istd?p=shadowrefiner-towards-mask-free-shadow)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/shadowrefiner-towards-mask-free-shadow/shadow-removal-on-istd)](https://paperswithcode.com/sota/shadow-removal-on-istd?p=shadowrefiner-towards-mask-free-shadow)
