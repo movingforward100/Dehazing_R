@@ -1,3 +1,30 @@
+&nbsp;
+
+<div align="center">
+<p align="center"> <img src="figure/logo.png" width="200px"> </p>
+
+
+[![arXiv](https://img.shields.io/badge/arxiv-paper-179bd3)](https://arxiv.org/abs/2406.02559)
+[![NTIRE](https://img.shields.io/badge/Winner_of_NTIRE_2024_Perceptual_Track-leaderboard_User🥇_ylxb-179bd3)](https://codalab.lisn.upsaclay.fr/competitions/17546#results)
+[![NTIRE](https://img.shields.io/badge/Second_Place_of_NTIRE_2024_Fidelity_Track-leaderboard_User🥈_ZXCV-179bd3)](https://codalab.lisn.upsaclay.fr/competitions/17539#results)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/shadowrefiner-towards-mask-free-shadow/shadow-removal-on-adjusted-istd)](https://paperswithcode.com/sota/shadow-removal-on-adjusted-istd?p=shadowrefiner-towards-mask-free-shadow)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/shadowrefiner-towards-mask-free-shadow/shadow-removal-on-istd)](https://paperswithcode.com/sota/shadow-removal-on-istd?p=shadowrefiner-towards-mask-free-shadow)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/shadowrefiner-towards-mask-free-shadow/shadow-removal-on-wsrd)](https://paperswithcode.com/sota/shadow-removal-on-wsrd?p=shadowrefiner-towards-mask-free-shadow)
+
+
+</div>
+&nbsp;
+
+
+
+
+
+
+
+
+
+
 # Dehazing_R
 
 This is the official PyTorch implementation of our dehazing method for NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge
