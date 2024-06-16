@@ -96,17 +96,30 @@ DNH-HAZE [NTIRE 2024](https://codalab.lisn.upsaclay.fr/competitions/17529#partic
 - [NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge](https://drive.google.com/file/d/17cV2VeKXp2dFfMaTwdWTdfKqWQUs7g8f/view?usp=drive_link).
 
 ### Testing
-Download above saved models and unzip it into the folder ./weights. To test the model, you need to specify the test dictionary (Line 15 in test.py) and model path ( Line 41 in test.py and Line 19 in model.py). Then run
+Download above saved models and unzip it into the folder ./weights. To test the model, you need to specify the test dictionary (Line 17 in test.py) and model path ( Line 41 in test.py and Line 19 in model.py). Then run
 ```bash
 python test.py 
 ```
 You can check the output in `../results`.
 
-# Our saved Model
-Download [our saved model for NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge]() and unzip it into the folder ./weights to reproduce our test result.
 
 
-If you have any problems in reproducing our result, please contact wdong1745376@gmail.com as soon as possible.
+### Citation
+If you find our work useful for your research, please consider citing our paper
+
+```shell
+@InProceedings{dehazedct_2024_cvprw,
+    author    = {Dong, Wei and Zhou, Han and Wang, Ruiyi and Liu, Xiaohong and Zhai, Guangtao and Chen, Jun},
+    title     = {DehazeDCT: Towards Effective Non-Homogeneous Dehazing via Deformable Convolutional Transformer},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {6405-6414}
+}
+```
+
+### Contact
+If you have any question, please feel free to contact us via wdong1745376@gmail.com.
 
 
 
