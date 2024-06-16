@@ -82,7 +82,14 @@ pip install numpy matplotlib scikit-learn scikit-image timm kornia einops pytorc
 ```
 
 
+### Datasets
+NH-HAZE [NTIRE 2020](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/)
 
+NH-HAZE2 [NTIRE 2021](https://competitions.codalab.org/competitions/28032#participate) 
+
+HD-NH-HAZE [NTIRE 2023](https://codalab.lisn.upsaclay.fr/competitions/10216#participate)
+
+DNH-HAZE [NTIRE 2023](https://codalab.lisn.upsaclay.fr/competitions/17529#participate)
 
 
 
