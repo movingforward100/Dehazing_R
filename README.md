@@ -73,17 +73,11 @@ conda activate dehazedct
 2. Install Dependencies
 ```
 conda install pytorch=1.11 torchvision cudatoolkit=11.3 -c pytorch
-
 pip install -U openmim
-
 mim install mmcv-full==1.5.0
-
 pip install timm==0.6.11 mmdet==2.28.1
-
 pip install opencv-python termcolor yacs pyyaml scipy
-
 pip install DCNv4==latest
-
 pip install numpy matplotlib scikit-learn scikit-image timm kornia einops pytorch_lightning
 ```
 
