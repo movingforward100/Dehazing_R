@@ -33,6 +33,39 @@ This is the official PyTorch implementation of **DehazeDCT: Towards Effective No
 ![Framework](figure/framework.png)
 
 
+### Results
+<details close>
+<summary><b>Performance on NH-HAZE, NH-HAZE2, HD-NH-HAZE, and DNH-HAZE:</b></summary>
+
+![results1](/figure/result.png)
+
+
+</details>
+
+<details close>
+<summary><b>Rank of NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge:</b></summary>
+
+![results1](/figure/rank.png)
+
+
+</details>
+
+<details close>
+<summary><b>Result of DehazeDCT for NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge Test Data:</b></summary>
+
+![results1](/figure/ntire24_result.png)
+
+
+</details>
+
+
+
+
+
+
+
+
+
 
 
 
