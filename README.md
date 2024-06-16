@@ -84,64 +84,27 @@ pip install numpy matplotlib scikit-learn scikit-image timm kornia einops pytorc
 
 ### Datasets
 NH-HAZE [NTIRE 2020](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/) 
+
 NH-HAZE2 [NTIRE 2021](https://competitions.codalab.org/competitions/28032#participate) 
+
 HD-NH-HAZE [NTIRE 2023](https://codalab.lisn.upsaclay.fr/competitions/10216#participate)
+
 DNH-HAZE [NTIRE 2024](https://codalab.lisn.upsaclay.fr/competitions/17529#participate)
 
 
+### Pre-trained Model
+- [NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge](https://drive.google.com/file/d/17cV2VeKXp2dFfMaTwdWTdfKqWQUs7g8f/view?usp=drive_link).
 
-
-
-
-# Dehazing_R
-
-This is the official PyTorch implementation of our dehazing method for NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge
-# Environment:
-
-CUDA Version: 11.0
-
-Python 3.8
-
-# Dependencies:
-
-torch==1.10.0
-
-torchvision==0.9.0
-
-pytorch_lightning=2.0.0
-
-timm=0.6.12
-
-mmcv-full==1.5.0
-
-mmdet==2.28.1
-
-opencv-python 
-
-termcolor 
-
-yacs 
-
-yyaml 
-
-scipy
-
-kornia
-
-einops
-
-DCNv4
-
+### Testing
+Download above saved models and unzip it into the folder ./weights. To test the model, you need to specify the test dictionary (Line 15 in test.py) and model path ( Line 41 in test.py and Line 19 in model.py). Then run
+```bash
+python test.py 
+```
+You can check the output in `../results`.
 
 # Our saved Model
-Download [our saved model for NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge](https://drive.google.com/file/d/17cV2VeKXp2dFfMaTwdWTdfKqWQUs7g8f/view?usp=drive_link) and unzip it into the folder ./weights to reproduce our test result.
+Download [our saved model for NTIRE 2024 Dense and NonHomogeneous Dehazing Challenge]() and unzip it into the folder ./weights to reproduce our test result.
 
-# How to reproduce our test result
-Download above saved models
-
-Run test.py and find results in the folder ./results. Please note the weight path in Line 41 of test.py and Line 19 of model.py.
-
-Please note new generated results may have subtle varations with [our submitted test results](https://drive.google.com/file/d/18zyWybWFRbYA4HsifToUfLqPi_CnomsU/view?usp=sharing) due to the device difference, please feel free to choose our submitted results or your generated images for user study.
 
 If you have any problems in reproducing our result, please contact wdong1745376@gmail.com as soon as possible.
 
