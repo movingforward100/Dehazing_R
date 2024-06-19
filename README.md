@@ -29,7 +29,13 @@
 This is the official PyTorch implementation of **DehazeDCT: Towards Effective Non-Homogeneous Dehazing via Deformable Convolutional Transformer** in CVPRW 2024. Our DehazeDCT **won the second place** in the [NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge]([https://codalab.lisn.upsaclay.fr/competitions/17546](https://codalab.lisn.upsaclay.fr/competitions/17529)). If you find this repo useful, please give it a star ⭐ and consider citing our paper in your research. Thank you.
 
 ### NTIRE 2024 Award
+&nbsp;
+
+<div align="center">
+<p align="center"> <img src="figure/logo.png" width="200px"> </p>
 ![Framework](figure/NTIRE2024awards_Dehazing.png)
+</div>
+&nbsp;
 
 ### Overall Framework
 ![Framework](figure/framework.png)
