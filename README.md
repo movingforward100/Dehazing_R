@@ -31,7 +31,7 @@ This is the official PyTorch implementation of **DehazeDCT: Towards Effective No
 &nbsp;
 
 <div align="center">
-<p align="center"> <img src="figure/logo.png" width="200px"> </p>
+<p align="center"> <img src="figure/NTIRE2024awards_Dehazing.pdf" width="200px"> </p>
 
 </div>
 &nbsp;
