@@ -100,7 +100,7 @@ DNH-HAZE [NTIRE 2024](https://codalab.lisn.upsaclay.fr/competitions/17529#partic
 
 
 ### Pre-trained Model
-- [NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge](https://drive.google.com/file/d/17cV2VeKXp2dFfMaTwdWTdfKqWQUs7g8f/view?usp=drive_link).
+- [NTIRE 2024 Dense and Non-Homogeneous Dehazing Challenge](https://drive.google.com/drive/folders/1qrfAK800Lp-dPJbayOJngbZJc9yDOGVL?usp=drive_link).
 
 ### Testing
 Download above saved models and unzip it into the folder ./weights. To test the model, you need to specify the test dictionary (Line 17 in test.py) and model path (Line 41 in test.py and Line 19 in model.py). Then run
